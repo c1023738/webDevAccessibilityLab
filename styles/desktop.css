@@ -3,6 +3,12 @@ h1,
 h2 {
   font-family: "Raleway", sans-serif;
 }
+a:link {
+  color: #fff;
+}
+a:visited {
+  color: #ccc;
+}
 #container {
   margin: auto;
   max-width: 1200px;
